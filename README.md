@@ -1,10 +1,10 @@
 # FUTURE_DS_01
 Project Title - Business Sales Dashboard – E-Commerce Data Analysis
-🔍 Project Overview
+**🔍 Project Overview**
 This project presents an interactive Business Sales Dashboard built using E-commerce sales data to analyze overall business performance and category-wise insights.
 The dashboard helps stakeholders understand sales trends, profit distribution, discount impact, regional performance, and product category behavior through visually rich and interactive analytics.
 
-🎯 Objectives
+**🎯 Objectives**
 Analyze Sales, Profit, and Quantity across multiple dimensions
 Understand the impact of discounts on profit
 Compare category-wise and region-wise performance
