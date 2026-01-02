@@ -15,14 +15,16 @@ Compare category-wise and region-wise performance
 Identify top-performing states and cities
 Enable interactive filtering for deeper analysis
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
 Power BI – Dashboard creation & data visualization
 Microsoft Excel / CSV – Data source & preprocessing
 Data Modeling – Relationships between tables
 DAX (Data Analysis Expressions) – Measures & calculated fields
 Data Cleaning Techniques – Removing inconsistencies, formatting, aggregation
 
-📊 Dashboard Components Explained
+
+**
+📊 Dashboard Components Explained**
 1️⃣ Sales Summary Cards
 2️⃣ Count of Sub-Category by State
 3️⃣ Profit by Discount Analysis
@@ -31,6 +33,8 @@ Data Cleaning Techniques – Removing inconsistencies, formatting, aggregation
 6️⃣ Behaviour of Sales & Profit by Region
 7️⃣ Count of City by Region
 
-📊 Screenshot/Demo
+
+
+**📊 Screenshot/Demo**
 Take a look of Overall Dashboard :- https://github.com/joyboy-03/FUTURE_DS_01/blob/main/OVERALL%20DASHBOARD.png
 
