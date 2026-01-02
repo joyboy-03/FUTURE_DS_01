@@ -36,5 +36,5 @@ Data Cleaning Techniques – Removing inconsistencies, formatting, aggregation
 
 
 **📊 Screenshot/Demo**
-Take a look of Overall Dashboard :- [Overall Dashboard](https://raw.githubusercontent.com/joyboy-03/FUTURE_DS_01/main/OVERALL%20DASHBOARD.png)
+Take a look of Overall Dashboard :- (https://raw.githubusercontent.com/joyboy-03/FUTURE_DS_01/main/OVERALL%20DASHBOARD.png)
 
